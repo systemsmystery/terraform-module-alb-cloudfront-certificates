@@ -1,3 +1,10 @@
+## [1.1.0](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-alb-cloudfront-certificates/compare/v1.0.0...v1.1.0) (2023-06-29)
+
+
+### Features
+
+* switched to aws instead of local ([6f2e048](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-alb-cloudfront-certificates/commit/6f2e048a437b3b4b1f834d9efc34c816960b6e0a))
+
 ## 1.0.0 (2023-06-29)
 
 
