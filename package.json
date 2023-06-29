@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "conventional-changelog-conventionalcommits": "^6.1.0"
+  }
+}
